@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoaoClaudioSG
+- 👋 Hi, I’m João Claudio
 - 👀 I’m interested in Web Devolopment
 - 🌱 I’m currently learning HTML5, CSS3 and JavaScript
 - 💞️ I’m looking to collaborate on Learning the basics of codding.
