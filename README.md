@@ -3,7 +3,7 @@ Olá! Eu sou o João Claudio, Desenvolvedor WEB Júnior e Estudante de Análise 
 <div align="center">
   <a href="https://github.com/JoaoClaudioSG">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoClaudioSG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoClaudioSG&layout=compact&langs_count=7&theme=dark">
+  <!-- img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoClaudioSG&layout=compact&langs_count=7&theme=dark" -->
 </div>
 
   <!-- Imagens do site Devicon -->
@@ -13,5 +13,6 @@ Olá! Eu sou o João Claudio, Desenvolvedor WEB Júnior e Estudante de Análise 
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
+  <!-- Snake -->
   ![Snake animation](https://github.com/JoaoClaudioSG/JoaoClaudioSG/blob/output/github-contribution-grid-snake.svg)]
 
