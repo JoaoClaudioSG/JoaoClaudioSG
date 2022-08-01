@@ -16,4 +16,4 @@ Olá! Eu sou o João Claudio, Desenvolvedor WEB Júnior e Estudante de Análise 
   <!-- Snake -->
 <div>
   ![Snake animation](https://github.com/JoaoClaudioSG/JoaoClaudioSG/blob/output/github-contribution-grid-snake.svg)]
-<\div>
+</div>
