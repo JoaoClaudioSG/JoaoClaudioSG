@@ -1,10 +1,3 @@
-- 👋 Hi, I’m João Claudio
-- 👀 I’m interested in Web Devolopment
-- 🌱 I’m currently learning HTML5, CSS3 and JavaScript
-- 💞️ I’m looking to collaborate on Learning the basics of codding.
-- 📫 How to reach me joao.simao.simon@gmail.com
+Olá! Eu sou o João Claudio, Desenvolvedor WEB Júnior e Estudante de Análise e Desenvolvimento de Sistemas.
 
-<!---
-JoaoClaudioSG/JoaoClaudioSG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoClaudioSG&count_private=true&show_icons=true&theme=dark)
